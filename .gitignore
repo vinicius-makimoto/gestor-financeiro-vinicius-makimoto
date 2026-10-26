@@ -1,9 +1,9 @@
 # Dados gerados pela aplicação
-/storage/data/*.json
-/storage/data/*.lock
-/storage/data/*.tmp
-/storage/backups/*
-!/storage/backups/.gitkeep
+/Código do projeto/storage/data/*.json
+/Código do projeto/storage/data/*.lock
+/Código do projeto/storage/data/*.tmp
+/Código do projeto/storage/backups/*
+!/Código do projeto/storage/backups/.gitkeep
 
 # Arquivos locais do sistema operacional e editores
 .DS_Store
@@ -16,3 +16,6 @@ Thumbs.db
 *.tar
 *.tar.gz
 *.bak
+
+# Arquivo exportado pelo Google Stitch solicitado na documentação
+!/Google Stitch/*.zip
