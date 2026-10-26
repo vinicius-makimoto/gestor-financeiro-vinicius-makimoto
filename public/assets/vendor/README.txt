@@ -1,0 +1,1 @@
+As dependências Bootstrap, jQuery, SweetAlert2 e Chart.js devem ser mantidas localmente aqui quando fornecidas para o projeto. A interface atual usa CSS e JavaScript locais, sem CDN, para continuar executável enquanto os arquivos dessas bibliotecas não fazem parte dos anexos.

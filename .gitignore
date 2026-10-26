@@ -1,0 +1,18 @@
+# Dados gerados pela aplicação
+/storage/data/*.json
+/storage/data/*.lock
+/storage/data/*.tmp
+/storage/backups/*
+!/storage/backups/.gitkeep
+
+# Arquivos locais do sistema operacional e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Pacotes e cópias de entrega
+*.zip
+*.tar
+*.tar.gz
+*.bak
